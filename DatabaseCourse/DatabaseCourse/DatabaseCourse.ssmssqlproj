@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DatabaseCourse">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-UT11FDC:DESKTOP-UT11FDC\Adri">
+          <Created>2023-05-23T21:45:44.1844847+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-UT11FDC</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="BuyersCities.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>BuyersCities.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DiscountAmount.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DiscountAmount.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ListOriginGames.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ListOriginGames.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MakeDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MakeDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MostComplaintsCustomer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MostComplaintsCustomer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MostCopiesSold.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MostCopiesSold.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MostGamePublishers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MostGamePublishers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MultiplayerGames.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MultiplayerGames.sql</FullPath>
+        </FileNode>
+        <FileNode Name="NotAvailableOnOrigin.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>NotAvailableOnOrigin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PaymentTypes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PaymentTypes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SoldByGenre.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SoldByGenre.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SoldGames2018Feb.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SoldGames2018Feb.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SteamGamesValue.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SteamGamesValue.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Under10kHUF.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-UT11FDC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-UT11FDC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Under10kHUF.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
